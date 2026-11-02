@@ -1,7 +1,7 @@
 # Lab — Team Collab — Student B
-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** B
+**Assigned student:** Alejandro · **GitHub:** @Alejandrohv2000 · **Role:** B
 
-**Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
+**Personal confirmation:** Alejandro (@Alejandrohv2000) — I accept this role.
 
 
 **420-530-LE · Team of three · Your individual grade: /10**

@@ -1,7 +1,7 @@
 # Lab — Team Collab — Student C
-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** C
+**Assigned student:** Arif Hamidi · **GitHub:** @Arif-Hamidi · **Role:** C
 
-**Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
+**Personal confirmation:** Arif Hamidi (@Arif-Hamidi) — I accept this role.
 
 
 **420-530-LE · Team of three · Your individual grade: /10**
