@@ -1,7 +1,7 @@
 # Lab — Team Collab — Student A
-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** A
+**Assigned student:** Gasore René · **GitHub:** @Re-PeaceFront · **Role:** A
 
-**Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
+**Personal confirmation:** Gasore René (@Re-PeaceFront) — I accept this role.
 
 
 **420-530-LE · Team of three · Your individual grade: /10**
